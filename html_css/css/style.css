@@ -51,3 +51,47 @@ h2{
 }
 
 
+/* ###############################################################################*/
+
+/*Formulário */
+
+fieldset{
+    margin: 1em;
+    padding: 1px solid;
+    border: 1px solid #ccc;
+    background: #f8f8f8;
+
+
+
+}
+
+legend{
+    font-weight: bold;
+
+}
+label{
+    display: block;
+    cursor: pointer;
+
+}
+input{
+    width: auto;
+}
+
+
+textarea {
+    width: 20em;
+    height: 10em;
+}
+
+input.radio, input.checkbox, input.submit {
+    width: auto;
+}
+
+.radio  {
+    margin-right: 1em;
+}
+
+/* ###############################################################################*/
+
+/*Formulários 2  */
